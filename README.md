@@ -1,2 +1,2 @@
 # A11y-Validator
-Konzeption eines Accessibility-Validator im Rahmen der ESA des Moduls Softwaretechnik (THB MIB 20 S26)
+Design of an Accessibility Validator as part of the assignment (ESA) of the Software Engineering module (THB MIB 20 S26)
